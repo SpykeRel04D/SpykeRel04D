@@ -1,6 +1,4 @@
-[![SpykeRel04D_banner](https://github.com/SpykeRel04D/SpykeRel04D/assets/9600637/9c2be69b-5e11-4099-a1ae-93fefadd4400)](https://github.com/SpykeRel04D)
 
----
 ***<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpykeRel04D&layout=compact)</p>***
 
 <!--
